@@ -1,0 +1,66 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2023-04-25 13:22:23.964798",
+ "default_view": "List",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "workout_time",
+  "weight",
+  "steps",
+  "calories",
+  "date",
+  "today_date"
+ ],
+ "fields": [
+  {
+   "fieldname": "weight",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "Weight"
+  },
+  {
+   "fieldname": "steps",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Steps"
+  },
+  {
+   "fieldname": "workout_time",
+   "fieldtype": "Float",
+   "in_list_view": 1,
+   "label": "Workout duration (in hrs)"
+  },
+  {
+   "fieldname": "calories",
+   "fieldtype": "Int",
+   "in_list_view": 1,
+   "label": "Burn Calories"
+  },
+  {
+   "fieldname": "date",
+   "fieldtype": "Date",
+   "in_list_view": 1,
+   "label": "date"
+  },
+  {
+   "fieldname": "today_date",
+   "fieldtype": "Date",
+   "label": "Today Date"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2023-04-29 18:21:21.840614",
+ "modified_by": "Administrator",
+ "module": "Gms",
+ "name": "Customer Metrics",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}

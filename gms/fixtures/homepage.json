@@ -1,0 +1,18 @@
+[
+ {
+  "company": "sigzen",
+  "description": "Gold's Gym",
+  "docstatus": 0,
+  "doctype": "Homepage",
+  "hero_image": null,
+  "hero_section": "",
+  "hero_section_based_on": "Slideshow",
+  "modified": "2023-04-28 17:43:48.461882",
+  "name": "Homepage",
+  "products": [],
+  "products_url": "/all-products",
+  "slideshow": "Homepage",
+  "tag_line": "sigzen",
+  "title": null
+ }
+]

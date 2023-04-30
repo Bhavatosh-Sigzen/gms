@@ -1,0 +1,176 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Gym Workout Plan",
+  "gym_workout_plan": "Beginner level (Rs.2000)",
+  "gym_workout_plan_exercise": [
+   {
+    "day": "1",
+    "exercise_type": "Back Exercise",
+    "parent": "Beginner level (Rs.2000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "10",
+    "sets": "2"
+   },
+   {
+    "day": "2",
+    "exercise_type": "Chest Exercise",
+    "parent": "Beginner level (Rs.2000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "10",
+    "sets": "2"
+   },
+   {
+    "day": "3",
+    "exercise_type": "Leg Exercise",
+    "parent": "Beginner level (Rs.2000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "10",
+    "sets": "2"
+   },
+   {
+    "day": "4",
+    "exercise_type": "Back Exercise",
+    "parent": "Beginner level (Rs.2000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "10",
+    "sets": "2"
+   },
+   {
+    "day": "5",
+    "exercise_type": "Chest Exercise",
+    "parent": "Beginner level (Rs.2000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "10",
+    "sets": "2"
+   },
+   {
+    "day": "6",
+    "exercise_type": "Leg Exercise",
+    "parent": "Beginner level (Rs.2000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "10",
+    "sets": "2"
+   }
+  ],
+  "modified": "2023-04-28 15:46:18.408492",
+  "name": "Beginner level (Rs.2000)",
+  "rate": 2000.0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Gym Workout Plan",
+  "gym_workout_plan": "Intermediate level (Rs.5000)",
+  "gym_workout_plan_exercise": [
+   {
+    "day": "1",
+    "exercise_type": "Shoulder Press",
+    "parent": "Intermediate level (Rs.5000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "12",
+    "sets": "3"
+   },
+   {
+    "day": "2",
+    "exercise_type": "Back and Biceps",
+    "parent": "Intermediate level (Rs.5000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "12",
+    "sets": "3"
+   },
+   {
+    "day": "3",
+    "exercise_type": "Chest and Triceps",
+    "parent": "Intermediate level (Rs.5000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "12",
+    "sets": "3"
+   },
+   {
+    "day": "4",
+    "exercise_type": "Legs",
+    "parent": "Intermediate level (Rs.5000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "12",
+    "sets": "3"
+   }
+  ],
+  "modified": "2023-04-26 12:12:05.995073",
+  "name": "Intermediate level (Rs.5000)",
+  "rate": 5000.0
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Gym Workout Plan",
+  "gym_workout_plan": "Advanced level (Rs.10000)",
+  "gym_workout_plan_exercise": [
+   {
+    "day": "1",
+    "exercise_type": "Upper body and Abs",
+    "parent": "Advanced level (Rs.10000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "15",
+    "sets": "3"
+   },
+   {
+    "day": "2",
+    "exercise_type": "Lower body and Abs",
+    "parent": "Advanced level (Rs.10000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "15",
+    "sets": "3"
+   },
+   {
+    "day": "3",
+    "exercise_type": "Chest and Abs",
+    "parent": "Advanced level (Rs.10000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "15",
+    "sets": "3"
+   },
+   {
+    "day": "4",
+    "exercise_type": "Arms and Abs",
+    "parent": "Advanced level (Rs.10000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "15",
+    "sets": "3"
+   },
+   {
+    "day": "5",
+    "exercise_type": "Legs",
+    "parent": "Advanced level (Rs.10000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "15",
+    "sets": "3"
+   },
+   {
+    "day": "6",
+    "exercise_type": "Abs",
+    "parent": "Advanced level (Rs.10000)",
+    "parentfield": "gym_workout_plan_exercise",
+    "parenttype": "Gym Workout Plan",
+    "reps": "15",
+    "sets": "3"
+   }
+  ],
+  "modified": "2023-04-26 12:11:47.840876",
+  "name": "Advanced level (Rs.10000)",
+  "rate": 10000.0
+ }
+]
